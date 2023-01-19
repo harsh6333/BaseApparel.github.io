@@ -143,4 +143,8 @@ button:hover {
     #er2 {
         margin-right: 5.5rem;
     }
+    .attribution {
+        float: right;
+        margin-top: 50rem;
+    }
 }
